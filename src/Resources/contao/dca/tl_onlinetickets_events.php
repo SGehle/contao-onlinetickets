@@ -18,7 +18,7 @@ use Richardhj\IsotopeOnlineTicketsBundle\Dca\Event as Dca;
 /**
  * Table tl_onlinetickets_events
  */
-$GLOBALS['TL_DCA'][$table] = [
+$GLOBALS['TL_DCA']['tl_onlinetickets_events'] = [
 
     // Config
     'config'      => [
