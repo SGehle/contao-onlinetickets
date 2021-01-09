@@ -20,14 +20,7 @@
     "contao/manager-plugin": "^2.2",
     "contao-community-alliance/meta-palettes": "^2.0",
     "contao-community-alliance/url-builder": "^1.2",
-    "isotope/isotope-core": "^2.3",
-    "phpoffice/phpexcel": "^1.8",
-    "symfony/http-kernel": "^3.3 || ^4.0",
-    "symfony/config": "^3.3 || ^4.0",
-    "symfony/framework-bundle": "^3.3 || ^4.0",
-    "symfony/routing": "^3.3 || ^4.0",
-    "symfony/dependency-injection": "^3.3 || ^4.0",
-    "symfony/http-foundation": "^3.3 || ^4.0"
+    "isotope/isotope-core": "^2.3"
   },
   "suggest": {
     "isotope/isotope_documents": "Enhanced Isotope PDF templates to choose from"
