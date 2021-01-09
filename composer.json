@@ -20,7 +20,9 @@
     "contao/manager-plugin": "^2.2",
     "contao-community-alliance/meta-palettes": "^2.0",
     "contao-community-alliance/url-builder": "^1.2",
-    "isotope/isotope-core": "^2.3"
+    "isotope/isotope-core": "^2.3",
+    "phpoffice/phpspreadsheet": "^1.10"
+    
   },
   "suggest": {
     "isotope/isotope_documents": "Enhanced Isotope PDF templates to choose from"
