@@ -19,8 +19,7 @@ class RichardhjIsotopeOnlineTicketsExtension extends Extension
      * @var array
      */
     private static $files = [
-        'security.yml',
-        'services.yml',
+        'services.yml'
     ];
 
     /**
